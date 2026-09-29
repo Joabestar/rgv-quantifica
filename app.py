@@ -1599,7 +1599,7 @@ if modulo == "Construção":
             with col2:
 
                 st.metric(
-                    "Volume",
+                    "Volume do ambiente",
                     f"{volume:.2f} m³"
                 )
 
