@@ -2329,4 +2329,3 @@ else:
         "Este módulo será desenvolvido nas próximas etapas "
         "do RGV Quantifica."
     )
-```
